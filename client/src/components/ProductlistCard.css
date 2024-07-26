@@ -1,0 +1,11 @@
+.rating-star {
+    display: flex;
+    align-items: center;
+  }
+  
+  .rating-star .fas, .rating-star .far {
+    color:  #000;
+    margin-right: 5px;
+  }
+
+
